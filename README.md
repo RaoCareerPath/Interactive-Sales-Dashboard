@@ -1,4 +1,4 @@
-# 📊 Excel Sales Dashboard
+<img width="1756" height="582" alt="image" src="https://github.com/user-attachments/assets/b40abe03-4403-4ca6-a88a-98051c22c69a" /># 📊 Excel Sales Dashboard
 
 ## 📌 Project Overview
 This project is an **Interactive Excel Dashboard** built to analyze and visualize **Sales Performance**.  
@@ -52,7 +52,16 @@ The dashboard is designed to be user-friendly with **Pivot Tables, Slicers, Repo
 ---
 
 ## 📷 Screenshots
-(Added images)  
+<img width="1478" height="537" alt="image" src="https://github.com/user-attachments/assets/87a5d7e8-d745-4bf3-921c-5143c5d07719" />
+
+<img width="1471" height="546" alt="image" src="https://github.com/user-attachments/assets/4a0534bd-1a44-4413-afd6-cf353fd0a6cb" />
+
+<img width="1756" height="582" alt="image" src="https://github.com/user-attachments/assets/079353b3-3b09-46d5-8958-60934323cc68" />
+
+<img width="1463" height="531" alt="image" src="https://github.com/user-attachments/assets/aa2897c0-fcdd-488f-b971-da3b943480bb" />
+
+
+
 
 ---
 
