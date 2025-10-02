@@ -1,4 +1,4 @@
-<img width="1756" height="582" alt="image" src="https://github.com/user-attachments/assets/b40abe03-4403-4ca6-a88a-98051c22c69a" /># 📊 Excel Sales Dashboard
+📊 Excel Sales Dashboard
 
 ## 📌 Project Overview
 This project is an **Interactive Excel Dashboard** built to analyze and visualize **Sales Performance**.  
