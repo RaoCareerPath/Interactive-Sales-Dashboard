@@ -60,4 +60,4 @@ The dashboard is designed to be user-friendly with **Pivot Tables, Slicers, Repo
 👤 **Yajneswara Rao**  
 📧 Email: [raocareerpath@gmail.com](mailto:raocareerpath@gmail.com)  
 🔗 LinkedIn: [www.linkedin.com/in/y-rao-033414370](https://www.linkedin.com/in/y-rao-033414370)  
-💻 GitHub: [https://github.com/YRao](https://github.com/YRao)  
+💻 GitHub: [[https://github.com/YRao](https://github.com/YRao)  ](https://github.com/RaoCareerPath)
